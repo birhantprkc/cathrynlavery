@@ -8,11 +8,8 @@ I spent years hiring developers to build my ideas. Now I build them myself using
 
 ## What I'm building
 
-### 🎯 Helm
-React Native app for building better screen habits. iOS & Android, integrates with HealthKit.
-
-### ✍️ [LittleMight](https://littlemight.com)
-Where I write about my current obsession: building with AI.
+### 🌾 [Tracegrain](https://tracegrain.com)
+Building a local-first AI apprentice for everyday work.
 
 ## Contributing to
 
