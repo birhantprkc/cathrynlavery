@@ -31,6 +31,7 @@ I use [CLI Printing Press](https://github.com/mvanhorn/cli-printing-press) to tu
 
 ## Projects
 
+- **[shiprank](https://github.com/cathrynlavery/shiprank)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/shiprank?style=flat&color=gold) — Public leaderboard for developers who ship. Live at [shiprank.dev](https://shiprank.dev).
 - **[diagram-design](https://github.com/cathrynlavery/diagram-design)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat&color=gold) — Thirteen editorial diagram types for Claude Code
 - **[openclaw-ops](https://github.com/cathrynlavery/openclaw-ops)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/openclaw-ops?style=flat&color=gold) — Operations skill: health checks, repair scripts, security scans
 - **[codex-skill](https://github.com/cathrynlavery/codex-skill)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/codex-skill?style=flat&color=gold) — Give Claude Code a second opinion using OpenAI Codex
