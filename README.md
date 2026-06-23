@@ -38,6 +38,7 @@ I use [CLI Printing Press](https://github.com/mvanhorn/cli-printing-press) to tu
 - **[spend-optimizer](https://github.com/cathrynlavery/spend-optimizer)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/spend-optimizer?style=flat&color=gold) — Audit subscriptions and optimize credit card rewards.
 - **[problem-solver-skill](https://github.com/cathrynlavery/problem-solver-skill)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/problem-solver-skill?style=flat&color=gold) — Systematic problem diagnosis using progressive disclosure.
 - **[shopify-developer-skill](https://github.com/cathrynlavery/shopify-developer-skill)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/shopify-developer-skill?style=flat&color=gold) — Shopify expertise for Claude Code — verifies current APIs before coding.
+- **[shiprank](https://github.com/cathrynlavery/shiprank)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/shiprank?style=flat&color=gold) — Public leaderboard for developers who ship. Live at [shiprank.dev](https://shiprank.dev).
 - **[agent-improvement-loop](https://github.com/cathrynlavery/agent-improvement-loop)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/agent-improvement-loop?style=flat&color=gold) — Local session-mining loop for staging AI agent improvements and content ideas.
 
 ## Writing
