@@ -2,14 +2,13 @@
 
 **Founder of [BestSelf Co](https://bestself.co)** — bootstrapped to $50M+, sold to PE in 2022, bought it back in 2024.
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/cathrynlavery" alt="Cathryn's GitHub contribution heatmap" />
+</p>
+
 ## The shift
 
 I spent years hiring developers to build my ideas. Now I build them myself using Claude Code, Codex, and learning more every day.
-
-## What I'm building
-
-### 🌾 [Tracegrain](https://tracegrain.com)
-Building a local-first AI apprentice for everyday work.
 
 ## Contributing to
 
@@ -31,12 +30,15 @@ I use [CLI Printing Press](https://github.com/mvanhorn/cli-printing-press) to tu
 
 ## Projects
 
-- **[shiprank](https://github.com/cathrynlavery/shiprank)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/shiprank?style=flat&color=gold) — Public leaderboard for developers who ship. Live at [shiprank.dev](https://shiprank.dev).
-- **[diagram-design](https://github.com/cathrynlavery/diagram-design)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat&color=gold) — Thirteen editorial diagram types for Claude Code
-- **[openclaw-ops](https://github.com/cathrynlavery/openclaw-ops)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/openclaw-ops?style=flat&color=gold) — Operations skill: health checks, repair scripts, security scans
-- **[codex-skill](https://github.com/cathrynlavery/codex-skill)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/codex-skill?style=flat&color=gold) — Give Claude Code a second opinion using OpenAI Codex
-- **[spend-optimizer](https://github.com/cathrynlavery/spend-optimizer)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/spend-optimizer?style=flat&color=gold) — Audit subscriptions and optimize credit card rewards
-- **[shopify-developer-skill](https://github.com/cathrynlavery/shopify-developer-skill)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/shopify-developer-skill?style=flat&color=gold) — Shopify expertise for Claude Code
+- **[diagram-design](https://github.com/cathrynlavery/diagram-design)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat&color=gold) — Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG.
+- **[openclaw-ops](https://github.com/cathrynlavery/openclaw-ops)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/openclaw-ops?style=flat&color=gold) — Operations skill: health checks, repair scripts, watchdogs, security scans.
+- **[codex-skill](https://github.com/cathrynlavery/codex-skill)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/codex-skill?style=flat&color=gold) — Give Claude Code a second opinion using OpenAI Codex — automatic plan review via hooks.
+- **[voice-memo-organizer](https://github.com/cathrynlavery/voice-memo-organizer)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/voice-memo-organizer?style=flat&color=gold) — Organizes hundreds of Apple Voice Memos into a searchable archive with transcriptions and summaries. No API keys needed.
+- **[repo-atlas](https://github.com/cathrynlavery/repo-atlas)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/repo-atlas?style=flat&color=gold) — Builds a persistent context system for any git repo — fast LLM onboarding for agents.
+- **[spend-optimizer](https://github.com/cathrynlavery/spend-optimizer)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/spend-optimizer?style=flat&color=gold) — Audit subscriptions and optimize credit card rewards.
+- **[problem-solver-skill](https://github.com/cathrynlavery/problem-solver-skill)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/problem-solver-skill?style=flat&color=gold) — Systematic problem diagnosis using progressive disclosure.
+- **[shopify-developer-skill](https://github.com/cathrynlavery/shopify-developer-skill)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/shopify-developer-skill?style=flat&color=gold) — Shopify expertise for Claude Code — verifies current APIs before coding.
+- **[agent-improvement-loop](https://github.com/cathrynlavery/agent-improvement-loop)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/agent-improvement-loop?style=flat&color=gold) — Local session-mining loop for staging AI agent improvements and content ideas.
 
 ## Writing
 
