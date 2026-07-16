@@ -1,6 +1,6 @@
 # Hey, I'm Cathryn 👋
 
-**Founder of [BestSelf Co](https://bestself.co)** — bootstrapped to $50M+, sold to PE in 2022, bought it back in 2024.
+**Founder of [BestSelf Co](https://bestself.co)** — bootstrapped to $55M+, sold to PE in 2022, bought it back in 2024.
 
 <p align="center">
   <img src="https://ghchart.rshah.org/cathrynlavery" alt="Cathryn's GitHub contribution heatmap" />
