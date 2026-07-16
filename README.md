@@ -42,7 +42,9 @@ I use [CLI Printing Press](https://github.com/mvanhorn/cli-printing-press) to tu
 
 ## Writing
 
-[littlemight.com](https://littlemight.com)
+I write **[Little Might](https://littlemight.com)** — for operators getting technical, and builders learning to operate. I go deep on one hard thing at a time, then write down exactly how to do it yourself.
+
+📬 **[Subscribe to the newsletter →](https://littlemight.com/#newsletter)** — my best stuff lands in your inbox. No spam, unsubscribe in one click.
 
 ## Connect
 
