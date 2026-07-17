@@ -48,4 +48,4 @@ I write **[Little Might](https://littlemight.com)** — for operators getting te
 
 ## Connect
 
-[![X / Twitter](https://img.shields.io/badge/X-@CathrynLavery-black?logo=x)](https://twitter.com/CathrynLavery) [![LinkedIn](https://img.shields.io/badge/LinkedIn-cathrynlavery-blue?logo=linkedin)](https://linkedin.com/in/cathrynlavery)
+[![Newsletter](https://img.shields.io/badge/Newsletter-Little%20Might-ff6f61)](https://littlemight.com/#newsletter) [![X / Twitter](https://img.shields.io/badge/X-@CathrynLavery-black?logo=x)](https://twitter.com/CathrynLavery) [![LinkedIn](https://img.shields.io/badge/LinkedIn-cathrynlavery-blue?logo=linkedin)](https://linkedin.com/in/cathrynlavery)
